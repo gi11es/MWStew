@@ -26,7 +26,7 @@ If you want to use this tool, make sure to:
 2. Run `composer install`
 3. Run `npm install`
 4. Run `grunt build`
-5. Make sure `/temp` and `/includes/twig/cace` are both writable by the web server.
+5. Make sure `/temp` and `/includes/twig/cache` are both writable by the web server. The latter might need to be created.
 
 ## Contribute
 This is fully open source tool. It will be hosted so anyone that wants to use it can do so without running the script.
